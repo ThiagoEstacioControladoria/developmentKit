@@ -21,3 +21,25 @@
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
+
+#
+
+### Mostrar todas as Versões do Node
+```
+nvm list-remote
+```
+
+### Instalando o Node
+```
+nvm install v18.14.1
+```
+
+### Setando uma versão do Node como padrão
+```
+nvm alias default v18.14.1
+```
+
+### Usar uma versão específica do Node temporariamente
+```
+nvm use v18.14.1
+```

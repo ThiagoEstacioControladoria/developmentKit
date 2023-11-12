@@ -29,7 +29,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 nvm list-remote
 ```
 
-### Instalando o Node
+### Instalando o Node (Instala o Node e o NPM)
 ```
 nvm install v18.14.1
 ```

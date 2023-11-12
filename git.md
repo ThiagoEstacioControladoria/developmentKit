@@ -23,3 +23,11 @@ http://git-scm.com/download/win
 ```
 sudo apt-get install git
 ```
+
+#
+
+### Configuração do GIT
+
+```
+git config --global user.name SEUNOME
+```

@@ -30,4 +30,5 @@ sudo apt-get install git
 
 ```
 git config --global user.name SEUNOME
+git config --global user.email EMAIL
 ```

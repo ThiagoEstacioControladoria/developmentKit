@@ -21,6 +21,7 @@
 http://git-scm.com/download/win
 ```
 
+#
 
 ### <a id="ubuntu">Instalação no Linux (Ubuntu)</a>
 ### Abrir o terminal, e digitar o seguinte comando: 

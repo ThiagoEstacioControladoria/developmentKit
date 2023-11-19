@@ -1,5 +1,3 @@
-## Link da Instalação: https://www.postgresql.org/download/
-
 ## **Selecione seu Sistema Operacional:**
 
 - ### [Windows](#windows)
@@ -9,7 +7,14 @@
 
 ### <a id="windows">Instalação no Windows</a>
 
+### Entrar no seguinte link, e fazer o download do instalador:
+```
+https://www.postgresql.org/download/windows/
+```
 
+### Após fazer o download do instalador, abrir o arquivo e iniciar o processo de instalação dando OK em tudo, e inserir a senha do Super Usuário.
+
+### (Não é necessário instalar o StackBuilder no fim da instalação)
 
 #
 
@@ -40,7 +45,7 @@ sudo apt-get update
 sudo apt-get -y install postgresql
 ```
 
-### Agora que o PostgreSQL já está instalado, vamos acessar o "psql" pelo Terminal
+### Agora que o PostgreSQL já está instalado, vamos acessar o psql pelo Terminal
 ```
 sudo -u postgres psql
 ``` 
@@ -55,4 +60,7 @@ CREATE USER seu_usuario_linux CREATEROLE CREATEDB SUPERUSER PASSWORD '1234';
 CREATE DATABASE seu_usuario_linux;
 ```
 
-### Agora é só reiniciar o psql, que automaticamente ele se logará no usuário que foi criado.
+### Agora é só reiniciar o Terminal, e digitar o seguinte comando no Terminal para acessar o PostgreSQL:
+```
+psql
+```

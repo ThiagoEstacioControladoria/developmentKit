@@ -20,7 +20,7 @@ https://www.postgresql.org/download/windows/
 
 ### <a id="ubuntu">Instalação no Linux (Ubuntu)</a>
 
-### Entrar no seguinte link e seguir as instruções abaixo, ou do próprio link:
+### Entrar no seguinte link ou seguir as instruções abaixo, ou do próprio link:
 ```
 https://www.postgresql.org/download/linux/ubuntu/
 ```

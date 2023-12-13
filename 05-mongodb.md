@@ -7,10 +7,22 @@
 
 ### <a id="windows">Instalação no Windows</a>
 
-### 
+### Entrar no seguinte link para fazer o download do instalador:
+```
+https://www.mongodb.com/try/download/community
 ```
 
+### Agora abrir o .exe e proseguir com a instalação dando um Next e Finish em tudo.
+
+### Caso a instalação do "MongoDBCompass" falhar, entrar no seguinte link e fazer a instalação:
 ```
+https://www.mongodb.com/try/download/compass
+```
+
+### Agora para usar o MongoDB, deve-se abrir o aplicativo chamado "MongoDBCompass"
+
+#
+
 ### <a id="ubuntu">Instalação no Linux (Ubuntu)</a>
 
 ### Entrar no seguinte link ou seguir as instruções abaixo:
